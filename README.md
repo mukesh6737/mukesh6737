@@ -1,52 +1,34 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+## Hi there! 👋
 
-###
+I'm Mukesh Kumar, a passionate programmer from Kanpur. I love building innovative solutions and exploring new technologies.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+## About Me
 
-###
+I am currently based in Kanpur and am excited about my journey in software development. I have completed my first summer internship, where I honed my skills in Java and project development.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+## Skills & Technologies
 
-###
+java,git,github,html,css
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## Top Projects
 
-###
+- [CODSOFT](https://github.com/mukesh6737/CODSOFT): First Summer Internship, **Stars**: 0, **Language**: Java, **Forks**: 0, **Open Issues**: 0 
+- [mukesh6737](https://github.com/mukesh6737/mukesh6737): Personal repository for practice and experiments, **Stars**: 0, **Language**: N/A, **Forks**: 0, **Open Issues**: 0
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## GitHub Stats
 
-###
+📊 **Public Repositories**: 2 | 👥 **Followers**: 2 | 👤 **Following**: 2 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukesh6737&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Created repository [CODSOFT](https://github.com/mukesh6737/CODSOFT) on July 29, 2025.
+- Created branch `main` in [CODSOFT](https://github.com/mukesh6737/CODSOFT) on July 29, 2025.
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts. Stay tuned for updates!
+
+## Connect with Me
+
+{"instagram":"https://www.instagram.com/ms_the_mukesh_nishad/"}
